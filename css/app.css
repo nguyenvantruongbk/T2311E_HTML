@@ -1,0 +1,22 @@
+h1{
+    color: #809c52;
+}
+body{
+    background-image: url(../images/red-light-round-podium-black-background-mock-up_43614-950.avif);
+    background-size: cover;
+}
+p{
+    color: #9c5283;
+    font-size: 16px;
+    line-height: 3.0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify; /* can deu*/
+    text-decoration: underline;/* can deu*/
+    text-transform: none;/*uppercase;*/
+    font-weight: 700;/* 100 thin 200 semi light 400 500-medium 600-semibold 700-bold 800-etrabold 900-black*/
+   /* background-color: bisque;*/
+  /* background:image() ;*/
+    width: 600px;
+    border-bottom: 1px solid #5e529c;
+    
+}
