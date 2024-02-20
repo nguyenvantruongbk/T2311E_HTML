@@ -9,11 +9,7 @@
 </head>
 <body>
     <?php include("html/header.php");?>
-    <nav class="section nav">
-        <div class="container">
-            NAV
-        </div>
-    </nav>
+    <?php include("html/nav.php");?>
     <main class="section main">
         <div class="container">
             <div class="box-left">
@@ -28,13 +24,9 @@
     </main>
     <section class="section">
         <div class="container">
-            SECTION
+            SECTION 1
         </div>
     </section>
-    <footer class="section footer">
-        <div class="container">
-            FOOTER
-        </div>
-    </footer>
+    <?php include("html/footer.php");?>
 </body>
 </html>
